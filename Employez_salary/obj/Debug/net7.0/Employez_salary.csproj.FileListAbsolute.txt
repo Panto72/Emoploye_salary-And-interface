@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Employez_salary\Employez_salary\bin\Debug\net7.0\Employez_salary.exe
+C:\Users\User\source\repos\Employez_salary\Employez_salary\bin\Debug\net7.0\Employez_salary.deps.json
+C:\Users\User\source\repos\Employez_salary\Employez_salary\bin\Debug\net7.0\Employez_salary.runtimeconfig.json
+C:\Users\User\source\repos\Employez_salary\Employez_salary\bin\Debug\net7.0\Employez_salary.dll
+C:\Users\User\source\repos\Employez_salary\Employez_salary\bin\Debug\net7.0\Employez_salary.pdb
+C:\Users\User\source\repos\Employez_salary\Employez_salary\obj\Debug\net7.0\Employez_salary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Employez_salary\Employez_salary\obj\Debug\net7.0\Employez_salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Employez_salary\Employez_salary\obj\Debug\net7.0\Employez_salary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Employez_salary\Employez_salary\obj\Debug\net7.0\Employez_salary.AssemblyInfo.cs
+C:\Users\User\source\repos\Employez_salary\Employez_salary\obj\Debug\net7.0\Employez_salary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Employez_salary\Employez_salary\obj\Debug\net7.0\Employez_salary.dll
+C:\Users\User\source\repos\Employez_salary\Employez_salary\obj\Debug\net7.0\refint\Employez_salary.dll
+C:\Users\User\source\repos\Employez_salary\Employez_salary\obj\Debug\net7.0\Employez_salary.pdb
+C:\Users\User\source\repos\Employez_salary\Employez_salary\obj\Debug\net7.0\Employez_salary.genruntimeconfig.cache
+C:\Users\User\source\repos\Employez_salary\Employez_salary\obj\Debug\net7.0\ref\Employez_salary.dll
